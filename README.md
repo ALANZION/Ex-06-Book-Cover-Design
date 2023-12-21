@@ -19,6 +19,7 @@ Write down the code for book cover using HTML and CSS.
 Add images and other contents using CSS record a screenshot of it.
 
 ## CODE :
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -136,6 +137,7 @@ Add images and other contents using CSS record a screenshot of it.
         </div>
     </body>
 </html>
+```
 ## OUTPUT:
 
 ![Book cover SS]![image](https://github.com/ALANZION/Ex-06-Book-Cover-Design/assets/145743064/599ead46-e9ea-4e3b-abf6-ffa5eab11f96)
